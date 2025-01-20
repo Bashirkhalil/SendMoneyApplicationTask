@@ -22,5 +22,6 @@
 	
 
 💚 Contact Me
-For any question or enquery you can contact 📨 : BashirDev2024@gmail.com - 📳 : +971542468865 💬 : +971506341673
-For more info : My Likedin account http://t.ly/fAGK .
+
+- For any question or enquery you can contact 📨 : BashirDev2024@gmail.com - 📳 : +971542468865 💬 : +971506341673
+- For more info : My Likedin account http://t.ly/fAGK .

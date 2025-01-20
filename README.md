@@ -17,9 +17,31 @@
 ##  💚 Build instructions
 
 
-			  You just need to install the APK .
+	 You just need to install the APK . Enter the default username = testuser And password123 if required  . 
 		
-	
+##  💚 app screenshot	
+
+
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(1).jpeg" alt="image_alt" width="150"/> <img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(1).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(10).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(12).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(13).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(14).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(15).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(16).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(17).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(18).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(2).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(20).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(3).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(4).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(5).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(6).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(7).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(8).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image%20(9).jpeg" alt="image_alt" width="150"/>
+<img src="https://github.com/Bashirkhalil/SendMoneyApplicationTask/blob/e0af5631bb10f273936656f037cbfe236eae28ea/shared%20image.jpeg" alt="image_alt" width="150"/>
+
 
 💚 Contact Me
 
